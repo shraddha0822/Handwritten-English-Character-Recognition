@@ -12,7 +12,8 @@ Scikit-Learn: Dataset splitting and shuffling.
 
 Keras and TensorFlow: CNN architecture and model training.
 
-### Link to dataset : https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
+### Link to dataset :
+ https://www.kaggle.com/datasets/sachinpatel21/az-handwritten-alphabets-in-csv-format
 
 ### CNN Architecture
 
