@@ -43,11 +43,13 @@ Model is trained on the training set with validation on the test set.
 
 ### Evaluation
 
-Metrics: Validation and training accuracy and loss are displayed.
+Training Accuracy: ~95.78%
 
-Model Summary: Displays the CNN architecture details.
+Validation Accuracy: ~97.90%
 
-Saved Model: Final model is saved as model_hand.h5.
+Training Loss: ~0.155
+
+Validation Loss: ~0.075
 
 
 ### Prediction and Visualization
