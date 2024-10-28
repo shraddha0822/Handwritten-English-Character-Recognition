@@ -1,6 +1,6 @@
 # Handwritten-English-Character-Recognition
 
-## Run the Notebook in Google Colab
+### Run the Notebook in Google Colab
 
 [Open in Colab](https://colab.research.google.com/github/shraddha0822/Handwritten-English-Character-Recognition/blob/main/Handwritten_English_Character_Recognition.ipynb)
 
