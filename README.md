@@ -43,13 +43,13 @@ Model is trained on the training set with validation on the test set.
 
 ### Evaluation
 
-Training Accuracy: ~95.78%
+Training Accuracy: ~95.67%
 
-Validation Accuracy: ~97.90%
+Validation Accuracy: ~97.99%
 
-Training Loss: ~0.155
+Training Loss: ~0.156
 
-Validation Loss: ~0.075
+Validation Loss: ~0.071
 
 
 ### Prediction and Visualization
