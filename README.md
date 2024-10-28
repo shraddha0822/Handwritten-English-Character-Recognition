@@ -1,5 +1,10 @@
 # Handwritten-English-Character-Recognition
 
+## Run the Notebook in Google Colab
+
+[Open in Colab](https://colab.research.google.com/github/shraddha0822/Handwritten-English-Character-Recognition/blob/main/Handwritten_English_Character_Recognition.ipynb)
+
+
 This project aims to develop a Convolutional Neural Network (CNN) for recognizing handwritten alphabets. It utilizes image processing techniques, data preparation, and neural network design and training.
 
 ### Libraries Used
