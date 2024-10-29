@@ -21,7 +21,7 @@ To run this notebook, follow these steps:
    Click [here](https://colab.research.google.com/github/shraddha0822/Handwritten-English-Character-Recognition/blob/main/Handwritten_English_Character_Recognition.ipynb) to open the notebook in Google Colab.
 
 2. **Upload Your Kaggle API Key (kaggle.json)**  
-   - Go to [Kaggle's API section](https://www.kaggle.com/account) and create an API token if you haven’t already. This will download a `kaggle.json` file containing your Kaggle API key.
+   - Go to Kaggle's API section and create an API token if you haven’t already. This will download a `kaggle.json` file containing your Kaggle API key.
    - In Colab, upload the `kaggle.json` file by running the first code cell. Follow the instructions in the cell to securely configure your API key in Colab.
 
 3. **Install Required Libraries**  
